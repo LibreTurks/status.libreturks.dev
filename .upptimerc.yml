@@ -16,7 +16,7 @@ sites:
 
 status-website:
   cname: status.libreturks.dev
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/LibreTurks/status.libreturks.dev/refs/heads/master/assets/librelogo.png
   name: status.libreturks.dev
   introTitle: "**status.libreturks.dev** is uptime monitor for libreturks pubnix, made with upptime."
   introMessage: LibreTurks Pubnix's Uptime Monitor
