@@ -1,5 +1,5 @@
 # Change these first
-owner: LibreTurks # Your GitHub organization or username, where this repository lives
+owner: libreturks # Your GitHub organization or username, where this repository lives
 repo: status.libreturks.dev # The name of this repository
 
 sites:
