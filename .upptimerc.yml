@@ -17,7 +17,6 @@ sites:
     url: https://auth.libreturks.dev
   - name: redmine
     url: https://redmine.libreturks.dev
-  - name: 
 
 status-website:
   cname: status.libreturks.dev
