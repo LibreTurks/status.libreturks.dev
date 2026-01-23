@@ -5,8 +5,6 @@ repo: status.libreturks.dev # The name of this repository
 sites:
   - name: libreturks.dev
     url: https://libreturks.dev
-    expectedStatusCodes:
-      - 404
   - name: libreturks.dev - main node
     url: https://main.libreturks.dev
     expectedStatusCodes:
