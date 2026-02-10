@@ -1,7 +1,7 @@
 url: https://auth.libreturks.dev
-status: up
-code: 200
-responseTime: 1723
-lastUpdated: 2026-02-09T23:31:59.234Z
+status: down
+code: 521
+responseTime: 252
+lastUpdated: 2026-02-10T12:33:32.683Z
 startTime: 2026-01-23T15:01:58.103Z
 generator: Upptime <https://github.com/upptime/upptime>
