@@ -1,7 +1,7 @@
 url: https://redmine.libreturks.dev
-status: up
-code: 200
-responseTime: 2625
-lastUpdated: 2026-02-15T17:19:14.186Z
+status: down
+code: 521
+responseTime: 240
+lastUpdated: 2026-02-15T17:47:14.450Z
 startTime: 2026-01-23T15:02:00.386Z
 generator: Upptime <https://github.com/upptime/upptime>
